@@ -11,7 +11,8 @@
 
 :star2:I am growing in Data Science and have particular interests in finance, health/wellness, and sustainability, so you may see those themes and fun info in my practice. I will also post portfolio projects here with new updates on the way. 
 
-
+&nbsp;
+&nbsp;
 <img src="https://raw.githubusercontent.com/Smadd/Smadd/master/Github_border.png">
 
 
