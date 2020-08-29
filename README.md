@@ -13,7 +13,7 @@
 
 &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/Smadd/Smadd/master/Github_border.png">
+<img src="https://raw.githubusercontent.com/Smadd/Smadd/master/Github_border.png"> 
 
 
 <!--
