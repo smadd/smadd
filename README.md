@@ -12,6 +12,9 @@
 :star2:I am growing in Data Science and have particular interests in finance, health/wellness, and sustainability, so you may see those themes and fun info in my practice. I will also post portfolio projects here with new updates on the way. 
 
 
+<img src="https://raw.githubusercontent.com/Smadd/Smadd/master/Github_border.png">
+
+
 <!--
 **smadd/smadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
