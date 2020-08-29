@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Smadd/Smadd/master/Smadd_header.png">
+<img src="https://raw.githubusercontent.com/Smadd/Smadd/master/smadd_tree.png">
 
 
 # Well hello! <img src="https://raw.githubusercontent.com/Smadd/Smadd/master/Cliply_co_wave.gif" width="30px">
